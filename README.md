@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 | Domain | Key Projects | Technologies & Skills |
 | :--- | :--- | :--- |
 | **Data Science** | **•** [Life Expectancy Prediction Model (Regression)](https://github.com/sofi-whitemoon/life_expectancy) | **Python**, CRISP-DM, EDA, Model Engineering/Deployment |
-| | **•** [Student Dropout Prediction Model (Classification)](link to repo) | **Python**, Classification, Jupyter Notebook, SQL |
+| | **•** [Student Dropout Prediction Model (Classification)](https://github.com/sofi-whitemoon/student_dropout) | **Python**, Classification, Jupyter Notebook, SQL |
 | **Software Dev** | **•** [Plant Care iOS App](link to repo) (Collaborative features) | **Swift**, iOS Development, User-Focused Design |
 | | **•** [Computer Vision Project](link to repo) (Line Identification) | Edge Detection, **Hough Transform**, Algorithms |
 | **Web Dev** | **•** Freelance & Non-commercial Projects | **React, Node.js, FastAPI**, JavaScript, Git |
