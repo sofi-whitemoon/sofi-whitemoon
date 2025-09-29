@@ -47,8 +47,9 @@ Here are some ideas to get you started:
 | :--- | :--- | :--- |
 | **Data Science** | **•** [Life Expectancy Prediction Model (Regression)](https://github.com/sofi-whitemoon/life_expectancy) | **Python**, CRISP-DM, EDA, Model Engineering/Deployment |
 | | **•** [Student Dropout Prediction Model (Classification)](https://github.com/sofi-whitemoon/student_dropout) | **Python**, Classification, Jupyter Notebook, SQL |
-| | **•** [Insurence ]() | **Python**, clasterisation, Jupyter Notebook, SQL |
+| | **•** [Insurance Client Segmentation Analysis](https://github.com/sofi-whitemoon/insurance_client_segmentation) | **Python**, clasterisation, Jupyter Notebook, SQL |
 | | **•** [Beer Name dublications detection ]() | **Python**, Fuzzy logic, Jupyter Notebook, SQL |
+| | **•** [Food ]() | **Python**, Fuzzy logic, Jupyter Notebook, SQL |
 | | **•** [Butterfly Classification](https://www.kaggle.com/code/sofipyshchyk/notebook26763e0e2f) | **Python**, CNN, Transfer learning, Jupyter Notebook, SQL |
 
 
