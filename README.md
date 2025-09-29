@@ -45,19 +45,19 @@ Here are some ideas to get you started:
 
 | Domain | Key Projects | Technologies & Skills |
 | :--- | :--- | :--- |
-| **Data Science** | **•** [Life Expectancy Prediction Model (Regression)](https://github.com/sofi-whitemoon/life_expectancy) | **Python**, CRISP-DM, EDA, Model Engineering/Deployment |
-| | **•** [Student Dropout Prediction Model (Classification)](https://github.com/sofi-whitemoon/student_dropout) | **Python**, Classification, Jupyter Notebook, SQL |
-| | **•** [Insurance Client Segmentation Analysis](https://github.com/sofi-whitemoon/insurance_client_segmentation) | **Python**, clasterisation, Jupyter Notebook, SQL |
-| | **•** [Beer Name dublications detection ]() | **Python**, Fuzzy logic, Jupyter Notebook, SQL |
-| | **•** [Food ]() | **Python**, Fuzzy logic, Jupyter Notebook, SQL |
-| | **•** [Butterfly Classification](https://www.kaggle.com/code/sofipyshchyk/notebook26763e0e2f) | **Python**, CNN, Transfer learning, Jupyter Notebook, SQL |
-
-
+| **Data Science** | **•** [Student Dropout Prediction Model (Classification)](https://github.com/sofi-whitemoon/student_dropout) | Classification, Scikit-learn, Feature Engineering, Model Evaluation |
+| | **•** [Life Expectancy Prediction Model ](https://github.com/sofi-whitemoon/life_expectancy) | Regression, CRISP-DM, EDA, Data Transformation |
+| | **•** [Insurance Client Segmentation Analysis](https://github.com/sofi-whitemoon/insurance_client_segmentation) | Clustering, PCA (Dimensionality Reduction), Fuzzy C-Means, Silhouette Score |
+| | **•** [Fuzzy Matching for Beer Database Deduplication](https://github.com/sofi-whitemoon/beer_database) | Scikit-fuzzy, Fuzzy Logic, Data Deduplication |
+| | **•** [Food Delivery Time Prediction](https://github.com/sofi-whitemoon/food_delivery_time/tree/main) | Regression, Discretisation, Ensemble Methods (Stacking), XGBoost |
+| | **•** [Butterfly Classification](https://www.kaggle.com/code/sofipyshchyk/notebook26763e0e2f) | TensorFlow, Convolutional Neural Networks (CNN), Transfer Learning (ResNet/VGG), Image Preprocessing |
 | **Software Dev** | **•** Plant Care iOS App | **Swift**, iOS Development, User-Focused Design |
-|  | **•** Freelance Projects | **React, Node.js, FastAPI**, JavaScript, Git |
+|  | **•** Freelance Projects | **React, FastAPI**, JavaScript, Git |
 
 ---
 
-📫 How to reach me: Message me on [LinkedIn](link to LinkedIn profile)
+📫 How to reach me: 
+
+Message me on [LinkedIn](https://www.linkedin.com/in/sofia-pyshchyk-46202328a/)
 
 
