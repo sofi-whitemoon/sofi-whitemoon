@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ### Education
 
 * **Lviv Polytechnic National University** — Bachelor of Computer Science (Expected May 2026)
-* **JUNIA – ISEN, Lille, France** — Software Engineering Master Program, Erasmus+ Exchange (Sep – Nov 2025)
+* **JUNIA – ISEN, Lille, France** — Software Engineering Master Program, Erasmus+ Academic Exchange (Sep – Dec 2025)
 
 
 
